@@ -23,3 +23,4 @@ menu_list = []
 meal("메뉴",menu_list)
 menu_recommendation = rd.choice(menu_list)
 print(f"추천메뉴는 {menu_recommendation}입니다. zzz")
+print("1234")
